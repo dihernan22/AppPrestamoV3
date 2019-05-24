@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/mnGuardarClient"
+        android:title="Guardar Cliente"
+        android:icon="@drawable/ic_action_add_client_save"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/mnCancelarClient"
+        android:title="Cancelar Cliente"
+        android:icon="@drawable/ic_action_add_client_cancel"
+        app:showAsAction="always"/>
+</menu>
